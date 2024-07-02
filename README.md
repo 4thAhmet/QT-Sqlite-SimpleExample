@@ -4,7 +4,7 @@
 I tried simple database binding and basic commands with C++ and Qt
 
 
-## Bilgisayarınızda Çalıştırın
+## Run your pc
 
 Clone the project
 
